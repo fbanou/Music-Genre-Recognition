@@ -13,7 +13,7 @@ A **music genre classification** system that uses **Gaussian Mixture Models (GMM
 
 ---
 
-## 🏗️ Tech Stack
+## ⚙ Technologies
 
 - **Language**: Python  
 - **Libraries**: librosa, numpy, scipy, joblib, scikit-learn  
