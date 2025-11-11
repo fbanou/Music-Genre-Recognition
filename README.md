@@ -6,10 +6,10 @@ A **music genre classification** system that uses **Gaussian Mixture Models (GMM
 
 ## ✨ Features
 
-- 🎶 **Audio Preprocessing**: Extracts **MFCCs** from audio files to represent spectral features of the music.
-- 📊 **Model Training**: Trains a **Gaussian Mixture Model (GMM)** for each music genre using the Expectation-Maximization (EM) algorithm.
-- 🔍 **Genre Classification**: Classifies music genres based on the highest log-likelihood of the GMMs.
-- 📈 **Evaluation**: Measures performance using **accuracy** and **confusion matrix**.
+- 🎶 **Audio Preprocessing**: Extracts **MFCCs** from audio files to represent spectral features of the music
+- 📊 **Model Training**: Trains a **Gaussian Mixture Model (GMM)** for each music genre using the Expectation-Maximization (EM) algorithm
+- 🔍 **Genre Classification**: Classifies music genres based on the highest log-likelihood of the GMMs
+- 📈 **Evaluation**: Measures performance using **accuracy** and **confusion matrix**
 
 ---
 
