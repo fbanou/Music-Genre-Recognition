@@ -16,6 +16,6 @@ A **music genre classification** system that uses **Gaussian Mixture Models (GMM
 ## ⚙ Technologies
 
 - **Language**: Python  
-- **Libraries**: librosa, numpy, scipy, joblib, scikit-learn  
+- **Libraries**: librosa, numpy, scipy, matplotlib, scikit-learn  
 - **Machine Learning**: Gaussian Mixture Models (GMM)  
 - **Feature Extraction**: Mel-Frequency Cepstral Coefficients (MFCCs)  
